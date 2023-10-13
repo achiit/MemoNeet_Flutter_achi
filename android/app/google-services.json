@@ -1,0 +1,372 @@
+{
+  "project_info": {
+    "project_number": "540788350539",
+    "firebase_url": "https://memoneet-5498.firebaseio.com",
+    "project_id": "memoneet-5498",
+    "storage_bucket": "memoneet-5498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540788350539:android:68dfeb947a2c4ae38937ce",
+        "android_client_info": {
+          "package_name": "com.adithya.memoneet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540788350539-01sdjtmprdb11qvhaa18627vqdke6g5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "dc48e79e693a7af63313b10a70fc69707a37f25f"
+          }
+        },
+        {
+          "client_id": "540788350539-0q3k0ss64raj7p3ev3s8gj4ejksgh5ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "77ecda7c13eca0a68457c27dabdac86323371063"
+          }
+        },
+        {
+          "client_id": "540788350539-3nh047bnslipmdicm1qnf5d5j865cj2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "89eecf5235155510e1ec966d2dac228fd29ab19b"
+          }
+        },
+        {
+          "client_id": "540788350539-4dm1p09fleuc0rrge76c799r8eg3ilgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "5d15566fa282c2711f8d580db8f8df71fee9ac95"
+          }
+        },
+        {
+          "client_id": "540788350539-4l71jb5jd9nukokpv76gl2u9q8j6brn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "a1022c0ec0e4be910dea1ca31536801193642c6b"
+          }
+        },
+        {
+          "client_id": "540788350539-9m6ntpvl9a38n127292fap1jo5m9ibtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "76266e7fd261a3fe33fd3da7ccb010d819180cba"
+          }
+        },
+        {
+          "client_id": "540788350539-a52or4jfuhvhcgeekdv98m8lt7l5ev3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "aa0f96b3c573e88789ecf1f03284e8182e5b8a04"
+          }
+        },
+        {
+          "client_id": "540788350539-ff0d1pe40g5esu3ijco08kug67cvkcd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "a6f0c77db7d38700b2a1fed59c37850f9eca8ab7"
+          }
+        },
+        {
+          "client_id": "540788350539-h6butrjrpj1a7j4ecril5o9d1df0d30f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "9b21394ffd8dad103be0f25cb1cddaace6dd39b5"
+          }
+        },
+        {
+          "client_id": "540788350539-jkpurdhm220elkf6meurj119g95rlsp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "29a7a4136bbd336bc4344979a1661989201fb05d"
+          }
+        },
+        {
+          "client_id": "540788350539-m38ga0dnhlo61jsh0qdohmsjtdu6fbod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "e4653ac0a77edbb4be53628e1506a151c775fd85"
+          }
+        },
+        {
+          "client_id": "540788350539-m3mchpn0s85fr5ekjbue8b8qbpq4b3m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "97cac77738954b00bc919ddb342facb9465edc20"
+          }
+        },
+        {
+          "client_id": "540788350539-mh5dmui0spot6bkev9dft63nt43bn8qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "46da93a95ba2971caec0177652820cf5e61d3b89"
+          }
+        },
+        {
+          "client_id": "540788350539-no6neu1e7ucu0fsfcs2eb1er44amv9hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "24b9217b45e05be85154a94638ee493707341e97"
+          }
+        },
+        {
+          "client_id": "540788350539-nosr92i7clvndf1q2iecm5k70olgrrbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "059edee0f9ac2a772ee2ea63f5a13bad68d432e4"
+          }
+        },
+        {
+          "client_id": "540788350539-o0h7ljvjrsi38lfpnfbtaq35nmpt52n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "9b3e59a66b549046b17b95576a703b3e3a1fa97f"
+          }
+        },
+        {
+          "client_id": "540788350539-q6fpfg94u6aqqnbli4opf362ti8rujn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "607772c4531fe0dfcd2ad34d9b37857547075739"
+          }
+        },
+        {
+          "client_id": "540788350539-sdp7nur2s36tt0h6ggt2s82a6o331epj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "5b0bcf6ac0f2ae1f753a656843f48ca5dae29447"
+          }
+        },
+        {
+          "client_id": "540788350539-t1821fevrp02m1ph45j5qhkl95psim9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "c06d5af940abcc4ac8d0fdf584ff2e592b2776ad"
+          }
+        },
+        {
+          "client_id": "540788350539-ua1k060bl177tqotu0q5v35b687d9rs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneet",
+            "certificate_hash": "8f6b048bd2ec8b0e19135a9feea5a92c3f8b7f3f"
+          }
+        },
+        {
+          "client_id": "540788350539-or52ek682bs6grn3rl59g1jbnajhlvrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwwzUhSO89-dRvGJHZIINU0i9mCR5zZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540788350539-or52ek682bs6grn3rl59g1jbnajhlvrj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540788350539-jgrvtgm5roggu2af4gpo00n0pv1itgqm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.memoapps.memoneet"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8233513436328312~7934843499"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540788350539:android:70c5d6dd5da7ff9d8937ce",
+        "android_client_info": {
+          "package_name": "com.adithya.memoneetaffiliate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540788350539-ccttk8vulo0ur4eppm0i8f44ebvc8fnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneetaffiliate",
+            "certificate_hash": "89eecf5235155510e1ec966d2dac228fd29ab19b"
+          }
+        },
+        {
+          "client_id": "540788350539-en84p28pcudt4flut9hr0pmr6teat78p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneetaffiliate",
+            "certificate_hash": "8f6b048bd2ec8b0e19135a9feea5a92c3f8b7f3f"
+          }
+        },
+        {
+          "client_id": "540788350539-jnimurc2p5rnmhbgs954stb43259j171.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneetaffiliate",
+            "certificate_hash": "5b0bcf6ac0f2ae1f753a656843f48ca5dae29447"
+          }
+        },
+        {
+          "client_id": "540788350539-oijltpo9gaekm1nkmphe6e3arai4nj6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.memoneetaffiliate",
+            "certificate_hash": "6124f81a6ef6ce492913774b3754de89ee88640f"
+          }
+        },
+        {
+          "client_id": "540788350539-or52ek682bs6grn3rl59g1jbnajhlvrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwwzUhSO89-dRvGJHZIINU0i9mCR5zZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540788350539-or52ek682bs6grn3rl59g1jbnajhlvrj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540788350539-jgrvtgm5roggu2af4gpo00n0pv1itgqm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.memoapps.memoneet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540788350539:android:85b4e121275ae7968937ce",
+        "android_client_info": {
+          "package_name": "com.memoapp.memoneet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540788350539-n8a03n8n77jukflds870jebjs5pgq0d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.memoapp.memoneet",
+            "certificate_hash": "46da93a95ba2971caec0177652820cf5e61d3b89"
+          }
+        },
+        {
+          "client_id": "540788350539-or52ek682bs6grn3rl59g1jbnajhlvrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwwzUhSO89-dRvGJHZIINU0i9mCR5zZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540788350539-or52ek682bs6grn3rl59g1jbnajhlvrj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540788350539-jgrvtgm5roggu2af4gpo00n0pv1itgqm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.memoapps.memoneet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540788350539:android:b89e8670ec9e9a0f8937ce",
+        "android_client_info": {
+          "package_name": "com.memoneet.memoneet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540788350539-d1itvm2dpuiqhmkhahlnp6140du8n5cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.memoneet.memoneet_app",
+            "certificate_hash": "29a7a4136bbd336bc4344979a1661989201fb05d"
+          }
+        },
+        {
+          "client_id": "540788350539-e2vr2bkerk7i7euc7eh6jp4gq78eijak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.memoneet.memoneet_app",
+            "certificate_hash": "46da93a95ba2971caec0177652820cf5e61d3b89"
+          }
+        },
+        {
+          "client_id": "540788350539-or52ek682bs6grn3rl59g1jbnajhlvrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwwzUhSO89-dRvGJHZIINU0i9mCR5zZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540788350539-or52ek682bs6grn3rl59g1jbnajhlvrj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540788350539-jgrvtgm5roggu2af4gpo00n0pv1itgqm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.memoapps.memoneet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
